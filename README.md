@@ -1,6 +1,6 @@
 # Homelab Infrastructure
 
-A self-hosted infrastructure environment built to practice
+Built a self-hosted infrastructure environment using
 virtualization, Linux administration, containerization, networking,
 reverse proxies, and database administration.
 
